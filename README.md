@@ -106,3 +106,11 @@ Para Expo SDK v41.0.0 ou mais recente
 Mescle o conteúdo do metro.config.jsarquivo do seu projeto com esta configuração (crie o arquivo se ele ainda não existir).
 
 `expo start --clear`
+
+https://reactnavigation.org/docs/getting-started/
+
+yarn add @react-navigation/native
+
+expo install react-native-screens react-native-safe-area-context
+
+yarn add @react-navigation/native-stack
