@@ -41,7 +41,7 @@ export function Home() {
         pb={5}
         px={6}
       >
-        {/* <Logo /> */}
+        <Logo />
         
         <IconButton
           icon={<SignOut size={26} color={colors.gray[300]} />}

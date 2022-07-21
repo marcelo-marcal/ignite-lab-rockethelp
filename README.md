@@ -117,3 +117,19 @@ yarn add @react-navigation/native-stack
 
 ## Integração com Firebase e finalização
 
+https://firebase.google.com/?hl=pt-br&gclid=Cj0KCQjwz96WBhC8ARIsAATR253FRBJ-1dsUiOOlDG4DCOhJnkrPIRKnCtW0LcXvpsdfnu3YTqEomWYaAkekEALw_wcB&gclsrc=aw.ds
+
+
+https://rnfirebase.io/
+
+`yarn add @react-native-firebase/app`
+
+via config plugins.
+https://docs.expo.dev/guides/config-plugins/
+
+Using the native Firebase SDK
+
+`expo prebuild`
+
+`npm run android`
+
